@@ -1,0 +1,284 @@
+*{
+    font-weight: 200;
+    margin: 0;
+}
+body{
+    font-family: "Raleway";
+}
+#i1{
+    color: red; 
+    background-color: rgba(211, 211, 211, 0.503); 
+    border: none; 
+    font-size: 25px;
+    height: 52px;
+    width: 130px;
+    display: flex;
+}
+#i2{
+    font-size:20px; 
+    padding-right: 15px;
+    position: relative; 
+    top: 12px;
+    margin-left: 13px;
+}
+#i40{
+    color: red; 
+    background-color: rgba(211, 211, 211, 0.503); 
+    border: none; 
+    font-size: 25px;
+    height: 52px;
+    width: 50px;
+}
+#i40{
+    font-size:20px; 
+    padding-right: 15px;
+    position: relative; 
+    top: -50px;
+    margin-left: 1450px;
+}
+#i3{
+    position: relative; 
+    top: 9px;
+}
+#i1:hover{
+    background-color: red;
+    color: white;
+}
+#i4{
+    margin-left: 230px;
+    position: relative; 
+    top: -230px; 
+}
+#i5{
+    margin: auto; 
+    position: relative; 
+    top: -462px; 
+    width: 950px; 
+    height: 200px; 
+    background-color: white; 
+    border: none;
+}
+#i6{
+    width: 950px; 
+    position: relative; 
+    top: -461px; 
+    background-color: black; 
+    border: none; 
+    margin: auto; 
+    height: 25px;
+}
+#i7{
+    position: relative; 
+    top: 0px; 
+    position: absolute; 
+    left: 0px;
+    height: 40px; 
+    width: 100px; 
+    background-color: red; 
+    border: none; 
+    color: white; 
+    font-size: 16px;
+}
+#i8{
+    position: relative; 
+    top: 0px;
+    position: absolute; 
+    left: 100px;
+    height: 40px; 
+    width: 100px; 
+    background-color: black; 
+    border: none; 
+    color: white; 
+    font-size: 16px;
+}
+#i9{
+    position: relative; 
+    top: 0px;
+    position: absolute; 
+    left: 200px;
+    height: 40px; 
+    width: 100px; 
+    background-color: black; 
+    border: none; 
+    color: white; 
+    font-size: 16px;
+}
+#i7:hover,#i8:hover,#i9:hover{
+    background-color: lightgrey;
+    color: black;
+}
+#i10{
+    width: 120px; 
+    background-color:white; 
+    color:black; 
+    border: none; 
+    height: 35px;
+    margin-top: 18px; 
+    font-size: 15px;   
+}
+#i10:hover{
+    background-color: lightgray;
+}
+#i11{
+    margin-left: 539px; 
+    width: 501px; 
+    background-color: white; 
+    border: none; 
+    position: relative; 
+    top: -183px;
+}
+#i12{
+    width: 501px; 
+    background-color: white; 
+    border: none; 
+    position: relative; 
+    top: -4px;
+}
+#i13{
+    margin-left: 230px; 
+    position: relative; 
+    top: -520px;
+}
+#i14{
+    margin-left: 230px; 
+    position: relative; 
+    top: -230px;
+}
+#i15{
+    color: white; 
+    position: relative; 
+    top: -320px; 
+    margin-left: 828px;
+}
+#i16{
+    color: white; 
+    position: relative; 
+    top: -503px; 
+    margin-left: 828px;
+}
+#i17{
+    color: white; 
+    position: relative; 
+    top: -275px; 
+    margin-left: 558px;
+}
+#i18{
+    color: white; 
+    position: relative; 
+    top: -459px; 
+    margin-left: 558px;
+}
+#i19{
+    color: white; 
+    position: relative; 
+    top: -230px; 
+    margin-left: 18px;
+}
+#i20{
+    margin-left: 810px; 
+    position: relative; 
+    top: -194px;
+}
+#i21{
+    margin-left: 10px; 
+    position: relative; 
+    top: -207px;
+}
+#i22{
+    margin-left: -259px;
+}
+#i23{
+    margin-left: 10px; 
+    position: relative; 
+    top: -207px;
+}
+#i24{
+    padding-right: 15px;
+}
+#i25{
+    margin-left: 5px; 
+    margin-top: 3px;
+}
+#i26{
+    margin-left: 435px;
+}
+#i27{
+    margin-top: 5px;
+}
+#i28{
+    width: 455px; 
+    height: 35px; 
+    border: 1px solid lightgray; 
+    font-size: 15px;
+}
+#i29{
+    margin-left: 10px; 
+    width: 455px; 
+    height: 35px; 
+    border: 1px solid lightgray; 
+    font-size: 15px;
+}
+#i30{
+    width: 180px; 
+    background-color: rgb(85, 85, 85); 
+    color: white; border: none; 
+    height: 35px; 
+    margin-top: 18px; 
+    font-size: 15px;
+}
+#i31{
+    width: 1040px; 
+    margin-left: 230px; 
+    position: relative; 
+    top: -670px; 
+    background-color: black; 
+    border: none; color: white; 
+    opacity: 0.5;
+}
+#i32{
+    margin-left: 10px;
+}
+#i33{
+    height: 40px; 
+    width: 100px; 
+    background-color: red; 
+    border: none; 
+    color: white; 
+    font-size: 16px;
+}
+#i33:hover{
+    background-color: lightgray;
+    color: black;
+}
+#i34{
+    width: 1020px; 
+    height: 40px; 
+    border: none; 
+    font-size: 16px;
+}
+#i31:hover{
+    opacity: 1;
+}
+#i35{
+    margin-left: 230px; 
+    position: relative; 
+    top: -650px;
+}
+#i36{
+    width: 1020px; 
+    height: 50px; 
+    border: none; 
+    font-size: 16px;   
+}
+#i37{
+    height: 50px; 
+    width: 190px; 
+    background-color: black; 
+    border: none; 
+    color: white; 
+    font-size: 16px;
+}
+#i37:hover{
+    background-color: lightgray;
+    color: black;
+}
